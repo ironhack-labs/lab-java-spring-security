@@ -1,0 +1,15 @@
+C:\Users\nihad\Desktop\ITSkillSprint\LABs\lab-java-spring-security\demo\src\main\java\com\ironhack\demo\config\CustomUserDetailsService.java
+C:\Users\nihad\Desktop\ITSkillSprint\LABs\lab-java-spring-security\demo\src\main\java\com\ironhack\demo\config\SecurityConfig.java
+C:\Users\nihad\Desktop\ITSkillSprint\LABs\lab-java-spring-security\demo\src\main\java\com\ironhack\demo\controller\AuthController.java
+C:\Users\nihad\Desktop\ITSkillSprint\LABs\lab-java-spring-security\demo\src\main\java\com\ironhack\demo\controller\AuthorController.java
+C:\Users\nihad\Desktop\ITSkillSprint\LABs\lab-java-spring-security\demo\src\main\java\com\ironhack\demo\controller\BlogController.java
+C:\Users\nihad\Desktop\ITSkillSprint\LABs\lab-java-spring-security\demo\src\main\java\com\ironhack\demo\DemoApplication.java
+C:\Users\nihad\Desktop\ITSkillSprint\LABs\lab-java-spring-security\demo\src\main\java\com\ironhack\demo\dto\AuthorRequest.java
+C:\Users\nihad\Desktop\ITSkillSprint\LABs\lab-java-spring-security\demo\src\main\java\com\ironhack\demo\dto\BlogRequest.java
+C:\Users\nihad\Desktop\ITSkillSprint\LABs\lab-java-spring-security\demo\src\main\java\com\ironhack\demo\entity\Author.java
+C:\Users\nihad\Desktop\ITSkillSprint\LABs\lab-java-spring-security\demo\src\main\java\com\ironhack\demo\entity\AuthorRole.java
+C:\Users\nihad\Desktop\ITSkillSprint\LABs\lab-java-spring-security\demo\src\main\java\com\ironhack\demo\entity\Blog.java
+C:\Users\nihad\Desktop\ITSkillSprint\LABs\lab-java-spring-security\demo\src\main\java\com\ironhack\demo\repository\AuthorRepository.java
+C:\Users\nihad\Desktop\ITSkillSprint\LABs\lab-java-spring-security\demo\src\main\java\com\ironhack\demo\repository\BlogRepository.java
+C:\Users\nihad\Desktop\ITSkillSprint\LABs\lab-java-spring-security\demo\src\main\java\com\ironhack\demo\service\AuthorService.java
+C:\Users\nihad\Desktop\ITSkillSprint\LABs\lab-java-spring-security\demo\src\main\java\com\ironhack\demo\service\BlogService.java
