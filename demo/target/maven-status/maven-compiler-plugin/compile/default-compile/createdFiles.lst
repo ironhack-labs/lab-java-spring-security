@@ -1,0 +1,15 @@
+com\ironhack\demo\entity\AuthorRole.class
+com\ironhack\demo\DemoApplication.class
+com\ironhack\demo\config\SecurityConfig.class
+com\ironhack\demo\dto\AuthorRequest.class
+com\ironhack\demo\entity\Blog.class
+com\ironhack\demo\controller\AuthorController.class
+com\ironhack\demo\dto\BlogRequest.class
+com\ironhack\demo\repository\AuthorRepository.class
+com\ironhack\demo\config\CustomUserDetailsService.class
+com\ironhack\demo\controller\BlogController.class
+com\ironhack\demo\service\AuthorService.class
+com\ironhack\demo\service\BlogService.class
+com\ironhack\demo\entity\Author.class
+com\ironhack\demo\repository\BlogRepository.class
+com\ironhack\demo\controller\AuthController.class
